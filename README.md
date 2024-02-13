@@ -1,5 +1,7 @@
 # Nothing ® - Responsive Landing Page
 
+[DEMO](https://jacekkosiba.github.io/nothing-landing-page/)
+
 ## Description
 
 Simple, yet elegantly designed responsive landing page tailored for the tech brand "Nothing".
@@ -31,9 +33,9 @@ The design and functionality are kept basic to maintain focus on the brand and i
 
 ## Credits
 
-Developed by Jacek Kosiba. [GitHub](https://github.com/jacekkosiba)
+Developed by [Jacek Kosiba](https://github.com/jacekkosiba).
 
-Original design in Figma [here](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&mode=design&t=jbKZ9ndoz6PLGxsm-0).
+[Original design in Figma](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&mode=design&t=jbKZ9ndoz6PLGxsm-0).
 
 ---
 
